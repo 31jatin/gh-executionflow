@@ -1,4 +1,4 @@
-name: Matix Demo
+name: Matrix Demo
 on: push
 jobs:
     build:
